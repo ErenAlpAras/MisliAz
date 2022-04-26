@@ -1,0 +1,24 @@
+
+#IDMAN MERCLERI FOOTER
+* Click on "Misli.az" element
+* Wait "3" seconds
+* Click on "İdman Növleri" element
+* Wait "3" seconds
+* Click on "Bağla" element
+* Wait "3" seconds
+* Click on "Misli.az" element
+* Wait "3" seconds
+* Click on "Canlı Merc" element
+* Wait "3" seconds
+* Click on "Misli.az" element
+* Wait "3" seconds
+* Click on "Canlı Neticeler" element
+* Wait "3" seconds
+* Click on "Misli.az" element
+* Wait "3" seconds
+* Click on "En Cok Oynanılanlar" element
+* Wait "3" seconds
+
+#CANLI TEST
+* Click on "Canlı Neticeler" element
+* Wait "10" seconds

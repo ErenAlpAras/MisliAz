@@ -1,0 +1,51 @@
+
+
+# IDMAN
+* Click on "Profile" element
+* Click on "Profile İdman" element
+* Wait "2" seconds
+
+# MALUMAT
+* Click on "Profile" element
+* Click on "Şahsi Malumat" element
+* Wait "2" seconds
+
+# PUL KOCUR
+* Click on "Profile" element
+* Click on "Pul Köçür" element
+* Wait "2" seconds
+
+# PUL GOTUR
+* Click on "Profile" element
+* Click on "Pul Götür" element
+* Wait "2" seconds
+
+# TARIHCE
+* Click on "Profile" element
+* Click on "Tarihce" element
+* Wait "2" seconds
+
+# KAMPANYALAR
+* Click on "Profile" element
+* Click on "Kampanyalar" element
+* Wait "2" seconds
+
+# MEKTUPLAR
+* Click on "Profile" element
+* Click on "Mektuplar" element
+* Wait "2" seconds
+
+# AYARLAR
+* Click on "Profile" element
+* Click on "Ayarlar" element
+* Wait "2" seconds
+
+# SIFRE DEGIS
+* Click on "Profile" element
+* Click on "Change Password" element
+* Wait "2" seconds
+
+# LOGOUT
+* Click on "Profile" element
+* Click on "Logout" element
+* Wait "2" seconds

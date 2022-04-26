@@ -1,0 +1,20 @@
+
+ # LOGIN WITH AZ NUMBER
+ * Go to "https://development.azsubservis.com/" url
+ * Click on "Login Butonu" element
+ * Type "5062354668" in the "Username" element
+ * Type "erenalp1" in the "Password" element
+ * Click on "Daxil Ol" element
+ * Wait "3" seconds
+
+ # RETURN TO HOMEPAGE
+ * Click on "Homepage" element
+
+# CHANGE THE PASSWORD WITH LOGIN
+* Click on "Profile" element
+* Click on "Change Password" element
+* Type "erenalp1" in the "Current Password" element
+* Type "erenalp1" in the "New Password" element
+* Type "erenalp1" in the "Password Confirmation" element
+* Click on "Yenile Button" element
+* Wait "2" seconds

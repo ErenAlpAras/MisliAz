@@ -1,0 +1,227 @@
+[
+  {
+    "key": "Login Butonu",
+    "type": "css",
+    "value": "a[class='loginBtn  login fontLoad']"
+  },
+  {
+    "key": "Username",
+    "type": "id",
+    "value": "username"
+  },
+  {
+    "key": "Password",
+    "type": "id",
+    "value": "password"
+  },
+  {
+    "key": "Daxil Ol",
+    "type": "css",
+    "value": "button[type='submit']>span[class='btn-name']"
+  },
+  {
+    "key": "Futbol",
+    "type": "xpath",
+    "value": "//*[@id='Futbol_pre']"
+  },
+  {
+    "key": "Homepage",
+    "type": "css",
+    "value": "img[src='/_nuxt/54b9ef59286161aec789cce527f80e5e.svg']"
+  },
+  {
+    "key": "Profile",
+    "type": "css",
+    "value": "span[class='userName fs-14 txtWhite fw-600']"
+  },
+  {
+    "key": "Change Password",
+    "type": "css",
+    "value": "a[href='/uzvluk/sifreni-deyisdirin']"
+  },
+  {
+    "key": "New Password",
+    "type": "id",
+    "value": "newPassword"
+  },
+  {
+    "key": "Current Password",
+    "type": "id",
+    "value": "currentPassword"
+  },
+  {
+    "key": "Password Confirmation",
+    "type": "id",
+    "value": "passwordConfirmation"
+  },
+  {
+    "key": "Yenile Button",
+    "type": "css",
+    "value": "button[type='submit']"
+  },
+  {
+    "key": "By Date",
+    "type": "css",
+    "value": "button[class='hour']"
+  },
+  {
+    "key": "By League",
+    "type": "css",
+    "value": "button[class='league']"
+  },
+  {
+    "key": "Tarix",
+    "type": "css",
+    "value": "div[class='filterSelect filterDate']>button[class='filterSelectBtn']"
+  },
+  {
+    "key": "Reset Filter",
+    "type": "css",
+    "value": "button[class='resetFilter']"
+  },
+  {
+    "key": "Apply Filter",
+    "type": "css",
+    "value": "button[class='applyFilter selected']"
+  },
+  {
+    "key": "Liq",
+    "type": "css",
+    "value": "div[class='filterSelect filterLeague']>button[class='filterSelectBtn']"
+  },
+  {
+    "key": "Bağla",
+    "type": "css",
+    "value": "button[class='btn btn-orange tutorialBtn tutorialMHide']"
+  },
+  {
+    "key": "Hamısı Tarix",
+    "type": "id",
+    "value": "dateAllChk"
+  },
+  {
+    "key": "Hamısı Liq",
+    "type": "id",
+    "value": "leagueAllChk"
+  },
+  {
+    "key": "Clear Filters",
+    "type": "css",
+    "value": "div[class='clearFilters']"
+  },
+  {
+    "key": "Basketbol",
+    "type": "id",
+    "value": "Basketbol_pre"
+  },
+  {
+    "key": "Tenis",
+    "type": "id",
+    "value": "Tennis_pre"
+  },
+  {
+    "key": "Profile İdman",
+    "type": "css",
+    "value": "a[href='/hesabim/kuponlar?type=iddaa']"
+  },
+  {
+    "key": "Hamısı İdman",
+    "type": "partialLinkText",
+    "value": "Hamısı"
+  },
+  {
+    "key": "Şahsi Malumat",
+    "type": "css",
+    "value": "a[class='txtBlack usrInformation']"
+  },
+  {
+    "key": "Pul Köçür",
+    "type": "css",
+    "value": "a[href='/hesabim/pul-kocurme']"
+  },
+  {
+    "key": "Pul Götür",
+    "type": "css",
+    "value": "a[href='/hesabim/pul-goturme']"
+  },
+  {
+    "key": "Tarihce",
+    "type": "css",
+    "value": "a[href='/hesabim/hesab-emeliyyatlarim']"
+  },
+  {
+    "key": "Kampanyalar",
+    "type": "css",
+    "value": "a[href='/kampaniyalar']"
+  },
+  {
+    "key": "Mektuplar",
+    "type": "css",
+    "value": "a[href='/hesabim/mektublarim']"
+  },
+  {
+    "key": "Ayarlar",
+    "type": "css",
+    "value": "a[href='/sayt-parametrleri']"
+  },
+  {
+    "key": "Logout",
+    "type": "css",
+    "value": "a[class='txtBlack usrLogout']"
+  },
+  {
+    "key": "Misli.az",
+    "type": "css",
+    "value": "img[src='/_nuxt/54b9ef59286161aec789cce527f80e5e.svg']"
+  },
+  {
+    "key": "İdman Növleri",
+    "type": "css",
+    "value": "a[href='/idman-novleri/futbol']"
+  },
+  {
+    "key": "Canlı Merc",
+    "type": "css",
+    "value": "a[href='/idman-novleri/canli-merc/futbol']"
+  },
+  {
+    "key": "Canlı Neticeler",
+    "type": "xpath",
+    "value": "//*[contains(text(),'Canlı Nəticələr')]"
+  },
+  {
+    "key": "En Cok Oynanılanlar",
+    "type": "xpath",
+    "value": "//*[contains(text(),'Ən Çox Oynanılanlar')]"
+  },
+  {
+    "key": "Deposit",
+    "type": "css",
+    "value": "img[src='/_nuxt/img/bank-card.e81d68a.png']"
+  },
+  {
+    "key": "Registered Card",
+    "type": "css",
+    "value": "li[class='selectCardItemWrapper']"
+  },
+  {
+    "key": "Keep Going",
+    "type": "css",
+    "value": "button[type='submit']"
+  },
+  {
+    "key": "Price",
+    "type": "id",
+    "value": "price"
+  },
+  {
+    "key": "Anasayfaya Qayıt",
+    "type": "css",
+    "value": "a[class=\"btn btn-yellow btn-large active\"]"
+  },
+  {
+    "key": "Pul Köcür Footer",
+    "type": "css",
+    "value": "a[href='/FAQ/pul-kocur']"
+  }
+]

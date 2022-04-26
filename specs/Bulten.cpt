@@ -1,0 +1,44 @@
+
+
+# SOCCER AND FILTERS
+* Click on "Futbol" element
+* Click on "Bağla" element
+* Click on "By Date" element
+* Click on "By League" element
+* Click on "Tarix" element
+* Click on "Hamısı Tarix" element
+* Click on "Reset Filter" element
+* Wait "1" seconds
+* Click on "Liq" element
+* Click on "Hamısı Liq" element
+* Click on "Apply Filter" element
+* Click on "Clear Filters" element
+
+# BASKETBALL AND FILTERS
+* Click on "Basketbol" element
+* Wait "2" seconds
+* Click on "By Date" element
+* Wait "1" seconds
+* Click on "By League" element
+* Click on "Tarix" element
+* Click on "Hamısı Tarix" element
+* Click on "Reset Filter" element
+* Wait "1" seconds
+* Click on "Liq" element
+* Click on "Hamısı Liq" element
+* Click on "Clear Filters" element
+
+# TENNIS AND FILTERS
+* Click on "Tenis" element
+* Wait "2" seconds
+* Click on "By Date" element
+* Wait "1" seconds
+* Click on "By League" element
+* Click on "Tarix" element
+* Click on "Hamısı Tarix" element
+* Click on "Reset Filter" element
+* Wait "1" seconds
+* Click on "Liq" element
+* Click on "Hamısı Liq" element
+* Click on "Clear Filters" element
+

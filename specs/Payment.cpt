@@ -1,0 +1,22 @@
+
+
+
+# PUL KOCUR THROUGH PROFILE
+ * Wait "2" seconds
+ * Click on "Profile" element
+ * Click on "Pul Köçür" element
+ * Wait "2" seconds
+ * Click on "Deposit" element
+ * Wait "2" seconds
+ * Click on "Registered Card" element
+ * Click on "Keep Going" element
+ * Type "200" in the "Price" element
+ * Wait "2" seconds
+ * Click on "Keep Going" element
+ * Wait "2" seconds
+ * Click on "Anasayfaya Qayıt" element
+ * Wait "15" seconds
+
+ # PUL KOCUR THROUGH FOOTER
+ * Wait "2" seconds
+ * Click on "Pul Köcür Footer" element
