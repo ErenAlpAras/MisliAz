@@ -18,3 +18,27 @@
 * Type "erenalp1" in the "Password Confirmation" element
 * Click on "Yenile Button" element
 * Wait "2" seconds
+
+# FORGOT PASSWORD
+* Go to "https://development.azsubservis.com/" url
+* Click on "Login Butonu" element
+* Click on "Forgot Password" element
+* Wait "2" seconds
+* Type "5062354668" in the "Forgot Mobil Number" element
+* Type "30.06.1996" in the "Birthdate" element
+* Click on "Davam Et" element
+# MOBIL NO BOX
+* Wait "1" seconds
+* Click on "Mobil No Box" element
+* Click on "Keep Going" element
+* Wait "2" seconds
+* Click on "Anasayfaya Qayıt" element
+* Wait "10" seconds
+
+# EMAIL BOX
+* Wait "1" seconds
+* Click on "Email Box" element
+* Click on "Keep Going" element
+* Wait "2" seconds
+* Click on "Anasayfaya Qayıt" element
+* Wait "10" seconds

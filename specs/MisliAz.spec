@@ -1,11 +1,21 @@
 MISLIAZ
 =====================
 
+
+Register
+-------------
+* QEYDIYYATTAN QEÇ
      
 Change Password With Login
 ----------------
 * LOGIN WITH AZ NUMBER
 * CHANGE THE PASSWORD WITH LOGIN
+
+Forgot Password
+-----------------
+* FORGOT PASSWORD
+* MOBIL NO BOX
+/* EMAIL BOX
 
 Filter With Login Pre Bulten
 ------------
@@ -38,3 +48,6 @@ Payment
 -------
 * LOGIN WITH AZ NUMBER
 * PUL KOCUR THROUGH PROFILE
+* PUL GOTUR THROUGH PROFILE
+
+

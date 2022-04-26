@@ -1,0 +1,16 @@
+
+
+# QEYDIYYATTAN QEÇ
+* Go to "https://development.azsubservis.com/" url
+* Wait "2" seconds
+* Click on "Qeydiyyat Button" element
+* Wait "1" seconds
+* Type "Eren" in the "First Name" element
+* Type "Aras" in the "Last Name" element
+* Type "30.06.1996" in the "Register Birthdate" element
+* Type "erenalparaasfşjlfsa@gmail.com" in the "Register Email" element
+* Type "0552054957" in the "Register Mobile Number" element
+* Type "erenalp1" in the "Register Password" element
+* Click on "Istirak Box" element
+* Click on "Qeydiyyattan Qeç Button" element
+* Wait "10" seconds

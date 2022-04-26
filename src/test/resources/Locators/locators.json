@@ -223,5 +223,80 @@
     "key": "Pul Köcür Footer",
     "type": "css",
     "value": "a[href='/FAQ/pul-kocur']"
+  },
+  {
+    "key": "Forgot Password",
+    "type": "css",
+    "value": "a[class='forgotPassword']"
+  },
+  {
+    "key": "Forgot Mobil Number",
+    "type": "id",
+    "value": "reset_userName"
+  },
+  {
+    "key": "Birthdate",
+    "type": "id",
+    "value": "reset_birthDate"
+  },
+  {
+    "key": "Davam Et",
+    "type": "xpath",
+    "value": "//*[contains(text(),'DAVAM ET')]"
+  },
+  {
+    "key": "Mobil No Box",
+    "type": "id",
+    "value": "maskedMobileNo"
+  },
+  {
+    "key": "Email Box",
+    "type": "id",
+    "value": "maskedEmail"
+  },
+  {
+    "key": "Qeydiyyat Button",
+    "type": "xpath",
+    "value": "//*[contains(text(),'Qeydİyyat')]"
+  },
+  {
+    "key": "First Name",
+    "type": "id",
+    "value": "firstName"
+  },
+  {
+    "key": "Last Name",
+    "type": "id",
+    "value": "lastName"
+  },
+  {
+    "key": "Register Birthdate",
+    "type": "id",
+    "value": "birthDate"
+  },
+  {
+    "key": "Register Email",
+    "type": "id",
+    "value": "email"
+  },
+  {
+    "key": "Register Mobile Number",
+    "type": "id",
+    "value": "mobileNumber"
+  },
+  {
+    "key": "Register Password",
+    "type": "id",
+    "value": "password"
+  },
+  {
+    "key": "Istirak Box",
+    "type": "css",
+    "value": "div[class='control_indicator']"
+  },
+  {
+    "key": "Qeydiyyattan Qeç Button",
+    "type": "xpath",
+    "value": "//*[contains(text(),'QEYDİYYATDAN KEÇ')]"
   }
 ]
